@@ -1,0 +1,171 @@
+.container
+{
+	margin:auto;
+	padding-top: 10px;
+}
+body
+{
+	margin-bottom: 50px;
+	margin-right: auto;
+}
+.green li.active a, .green li.active a:hover, .nav-pills li.active a:focus
+{
+	background-color: lightgreen;
+}
+.green li a
+{
+	color: orange;
+}
+body
+{
+	background-color: white;
+}
+.fjalla
+{
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+	font-size: 450%;
+}
+#logotext
+{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 78px;
+	text-align: center;
+}
+#logo1
+{
+	position: relative;
+	float: left;
+	top: 18px;
+}
+.carousel-inner > .item > img 
+{
+	margin: 0 auto;
+	max-height: 250px;
+}
+.carousel-caption
+{
+	color: white;
+	text-shadow:
+	-1px -1px 0 gray,
+	1px -1px 0 gray,
+	-1px 1px 0 gray,
+	1px 1px 0 gray;
+}
+#missionTitle
+{
+	font-family: 'Fjalla One', sans-serif;
+}
+#mission
+{
+	text-align: center;
+	
+}
+#mission2
+{
+	border-radius: 100px 100px 0 0;
+	border-style: groove ridge groove groove;
+	border-width: 4px 30px 4px 30px;
+	border-color: lightgreen;
+ 	padding: 10px;
+}
+.acr
+{
+	font-style: italic;
+}
+#fest
+{
+	list-style-type: none;
+}
+.media-object
+{
+	height: 250px;
+	width: 250px;
+
+}
+#mapofbayarea
+{
+	padding-top: 35px;				
+}
+.textbehind
+{
+	opacity: 0.3;
+	height: 148px;
+}
+.behindpic img
+{
+	position: relative;
+	top: -120px;
+	z-index: -1;
+	margin-bottom: -100px;
+}
+.behindpic
+{
+	padding-top: 40px;
+
+}
+.headersforactivities
+{
+	text-align: left;
+	font-size: 300%;
+	font-family: 'Fjalla One', sans-serif;
+}
+.headersforactivities1
+{
+	position: relative;
+	left: 80px;
+	font-size: 250%;
+	font-family: 'Fjalla One', sans-serif;
+}
+.computeractivities
+{
+	position: relative;
+	left: 100px;
+}
+.leftside
+{
+	width:250px;
+	float:left;
+	position: relative;
+	left: 100px;
+}
+.rightside
+{
+	width:250px;
+	float:right;
+	position: relative;
+	left: -220px;
+}
+.fortablesched
+{
+	align: center;
+	position: relative;
+	float: bottom;
+	top: 400px;
+}
+.center-block
+{
+	position: relative;
+	left: 285px;
+}
+.locations
+{
+	position: relative;
+	height: 80px;
+
+}
+		.cat img{
+			width: 250px;
+			height: 250px;
+		}
+		.cat
+		{
+			padding: 35px;
+			display: block;
+			float: left;
+		}
+		.viewcat
+		{
+			float:right;
+			border: 2px solid grey;
+		}
